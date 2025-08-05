@@ -1,0 +1,1 @@
+C:\Users\sanji\OneDrive\Documents\GitHub\UnityGaussianSplatting\package\Runtime\GaussianSplatRenderer.cs(387,113): warning CS0618: 'TextureCreationFlags.IgnoreMipmapLimit' is obsolete: 'IgnoreMipmapLimit flag is no longer used since this is now the default behavior for all Texture shapes. Please provide mipmap limit information using a MipmapLimitDescriptor argument.'
